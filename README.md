@@ -8,7 +8,10 @@
       justify-content: center;
     ">
     <div class='inner'>
-        <div class="footer-logo">
+        <div style="
+          font-size: 24px;
+          margin-bottom: 20px;
+          ">
         <img src="logo.png" />
         </div>
         <p>With years of experience in the software industry, I have specialized in innovative development. In every project, I focus on delivering immersive and engaging experiences for customers.</p>

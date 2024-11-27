@@ -1,5 +1,12 @@
   <link href="readme.css" rel="stylesheet">
-  <div class="footer">
+  <div style="
+      text-align: center;
+      color: black;
+      margin-top: 5rem;
+      margin-bottom: 5rem;
+      display: flex;
+      justify-content: center;
+    ">
     <div class='inner'>
         <div class="footer-logo">
         <img src="logo.png" />

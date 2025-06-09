@@ -3,7 +3,7 @@
 <p align="center">
   <b>Full Stack Developer</b> <br/>
   🚀 Building scalable and efficient web applications <br/>
-  🌐 <a href="https://tural.digital" target="_blank">remzi.tural.digital</a>
+  🌐 <a href="https://tural.digital" target="_blank">tural.digital</a>
 </p>
 
 ---

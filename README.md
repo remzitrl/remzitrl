@@ -16,5 +16,5 @@
 ---
 
 📫 **Let's Connect**  
-<a href="https://tural.digital/archive.html" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=internetexplorer&logoColor=white"></a>  
+<a href="https://ahmet.tural.digital" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=internetexplorer&logoColor=white"></a>  
 <a href="https://www.linkedin.com/in/ahmet-tural-635772254" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>  

@@ -92,12 +92,12 @@ As a Full Stack Developer, I have experience with many of the technologies requi
 📊 My GitHub Stats
 
 <!--
-Don't forget to change KULLANICIADINIZ to your GitHub username!
+Don't forget to change remzitrl to your GitHub username!
 e.g., ?username=YOUR-USERNAME
 -->
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KULLANICIADINIZ&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Remzi Tural's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=remzitrl&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Remzi Tural's GitHub Stats" />
 
 
 
@@ -105,7 +105,7 @@ e.g., ?username=YOUR-USERNAME
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADINIZ&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remzitrl&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 🤝 Connect with me

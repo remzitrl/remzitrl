@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 <h1>
 👋 Hi! I'm Remzi Tural
 </h1>
@@ -7,56 +7,6 @@
 🚀 Full Stack Developer | Tech Enthusiast
 </h3>
 </div>
-
-👨‍💻 About Me
-
-I'm a Full Stack Developer focused on building innovative and scalable web applications. I see coding as an art of problem-solving and have a strong foundation in both Frontend (user interface) and Backend (server-side) technologies.
-
-I aim to write clean, sustainable code and produce solutions centered around the user experience.
-
-🌱 I’m currently diving deeper into [Technology you are currently learning, e.g., Rust, Web3 or AI].
-
-🔭 I’m currently working on personal projects like [Your Project Name].
-
-💬 Ask me about anything related to [Your Area of Expertise, e.g., React, Node.js, .NET Core].
-
-📫 How to reach me: [your.email@example.com]
-
-💻 My Tech Stack
-
-As a Full Stack Developer, I have experience with many of the technologies required for a project from start to finish.
-
-<p align="left">
-<strong>Frontend:</strong>
-<br>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<br><br>
-<strong>Backend:</strong>
-<br>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<br><br>
-<strong>Database:</strong>
-<br>
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<br><br>
-<strong>Tools & DevOps:</strong>
-<br>
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-
-</p>
 
 📊 My GitHub Stats
 

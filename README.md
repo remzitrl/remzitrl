@@ -117,16 +117,13 @@ Update all placeholder links (e.g., "your-linkedin-username") with your actual a
 -->
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-username" target="_blank">
+<a href="https://www.linkedin.com/in/remzi-tural-635772254" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://www.google.com/search?q=https://twitter.com/your-twitter-username" target="_blank">
-<img src="https://img.shields.io/badge/-X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
-</a>
-<a href="https://your-website.com" target="_blank"> <!-- Your personal website -->
+<a href="https://ahmet.tural.digital" target="_blank"> <!-- Your personal website -->
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-Website-4A90E2%3Fstyle%3Dfor-the-badge%26logo%3Dread-the-docs%26logoColor%3Dwhite" alt="Website">
 </a>
-<a href="mailto:your.email@example.com" target="_blank">
+<a href="mailto:aremzitural@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 </p>

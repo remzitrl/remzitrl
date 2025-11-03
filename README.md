@@ -8,9 +8,6 @@ Full Stack Developer | Tech Enthusiast
 </h3>
 </div>
 
-
-My Tech Stack
-
 As a Full Stack Developer, I have experience with many of the technologies required for a project from start to finish.
 
 <p align="left">

@@ -3,7 +3,7 @@
 Hi! I'm Remzi Tural
 </h1>
 <h3 align="center">
-Full Stack Developer | Tech Enthusiast
+Full Stack Developer | Tech Enthusiast 
 </h3>
 </div>
 
